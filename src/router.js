@@ -8,7 +8,7 @@ import Dashboard from "./pages/Dashboard.vue";
 import CreateToken from "./pages/CreateToken.vue";
 // import CreateNFTCollection from "./pages/CreateNFTCollection.vue";
 
-const history = createWebHistory();
+const history = createWebHistory('/example-dapp-lsps/');
 const routes = [
     {
         path: "/",

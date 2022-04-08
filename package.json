@@ -1,6 +1,7 @@
 {
-  "name": "-example-dapp-lsps",
+  "name": "example-dapp-lsps",
   "version": "0.0.0",
+  "homepage": "/example-dapp-lsps/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
